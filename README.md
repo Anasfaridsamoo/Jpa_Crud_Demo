@@ -10,8 +10,8 @@ This project is a simple "spoke" project, built to demonstrate a deep understand
 
 ## Technologies Used
 
-* Java 17
-* Spring Boot 3
+* Java 25
+* Spring Boot 6
 * Spring Data JPA
 * H2 (File-based) Database
 * Maven
