@@ -34,3 +34,8 @@ Here are the endpoints you can test using Postman:
 
 **Delete a Product**
 * `DELETE /products/{id}`
+
+## How to Check H2 Database
+You can access the H2 database console at: `http://localhost:8080/h2-console`
+<img width="715" height="685" alt="Screenshot 2025-11-03 180742" src="https://github.com/user-attachments/assets/2f4495b0-7a70-426e-8771-09bf5176a646" />
+<img width="1307" height="542" alt="Screenshot 2025-11-03 181011" src="https://github.com/user-attachments/assets/3b03c8bf-223c-4091-9aa1-39fec36133bc" />
